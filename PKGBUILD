@@ -28,7 +28,7 @@ optdepends=(
   'xorg-xrandr: Resolution detection (Multi Monitor + Refresh rates)'
   'xorg-xwininfo: See https://github.com/dylanaraps/neofetch/wiki/Images-in-the-terminal'
 )
-_commit="60d07dee6b76769d8c487a40639fb7b5a1a7bc85"
+_commit="db5c893ea679114f42a94a677e0c9a3b0d14526e"
 source=("git+https://github.com/ApertureLinux/aperture-neofetch#commit=${_commit}")
 md5sums=('SKIP')
 
